@@ -29,4 +29,6 @@ builder.Services.AddControllersWithViews();
 
     app.Run();
 
+Console.WriteLine("Hello World");
+
 
